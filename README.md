@@ -1,5 +1,7 @@
 # Banking Intent Classification with NLP
 
+**This project was developed as part of my Machine Learning and NLP training. It serves as a practical application of text classification concepts and model evaluation.**
+
 This project classifies customer queries for telephone banking using Machine Learning.
 
 ## Features
